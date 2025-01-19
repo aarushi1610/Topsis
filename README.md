@@ -1,6 +1,8 @@
 # TOPSIS Package
 
 This package calculates the TOPSIS score for a given CSV file.
+https://pypi.org/project/topsis-Aarushi-102216107/1.0.0/
+Link to PyPI package 
 
 ## Installation
 
@@ -12,7 +14,7 @@ Install the package using pip:
 
 Run the package via command line:
     ```bash 
-    topsis <inputFileName> <weights> <impacts> <resultFileName>
+    topsis inputFileName weights impacts resultFileName
 
 ## Input file format 
 
